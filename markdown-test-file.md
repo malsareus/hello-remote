@@ -8,7 +8,7 @@ So a few *points* of interest:
 * Write using the syntax
 * Done
 
-So for code the syntax would be 'console.writeline("This is markdown")'
+So for code the syntax would be `console.writeline("This is markdown")`
 
 Information sources for markdown are found at:
 
